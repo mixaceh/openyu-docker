@@ -1,1 +1,1 @@
-# openyu-docker
+# OpenYu Docker
